@@ -2,6 +2,8 @@
 ![Minería de datos](https://img.shields.io/badge/Minería%20de%20Datos-38BCAC)
 ![Pruebas](https://img.shields.io/badge/Pruebas-50BC38)
 
+![Visualización](images/imagen1.png)
+
 ## 1. Descripción del proyecto
 Este repositorio muestra las principales funcionalidades de WEKA ejecutadas desde el editor Visual Studio Code y mediante la API de WEKA. La finalidad de esta prueba es demostrar que se puede hacer uso de esta API desde el mencionado editor.
 
